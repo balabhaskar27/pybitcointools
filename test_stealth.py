@@ -1,4 +1,4 @@
-import bitcoin as bc
+import bitcointools as bc
 import sys
 import unittest
 
